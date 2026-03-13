@@ -76,8 +76,7 @@ Automated system monitoring tool using Python and Bash. Generates daily reports 
 
 ## Connect With Me
 
-- [LinkedIn](<https://linkedin.com/in/your-linkedin>)
-- [GitHub](<https://github.com/Abishek-21>)
+- [LinkedIn](<https://www.linkedin.com/in/abishek-budhiraja21/>)
 
 ---
 
