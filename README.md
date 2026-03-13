@@ -8,6 +8,7 @@ I build cloud infrastructure, automate everything, and love solving real-world p
 
 ## What I Do
 
+- Provision cloud infrastructure with **Terraform**
 - Build and deploy applications on **AWS EC2**
 - Containerize apps with **Docker** and **Docker Compose**
 - Automate CI/CD pipelines with **GitHub Actions**
@@ -18,6 +19,11 @@ I build cloud infrastructure, automate everything, and love solving real-world p
 ---
 
 ## Featured Projects
+
+### [Infrastructure as Code with Terraform](<https://github.com/Abishek-21/terraform-infra>)
+Automated AWS infrastructure provisioning using Terraform. Creates EC2 instances, Security Groups, installs Docker, and deploys applications — all with a single command.
+
+> Terraform | AWS EC2 | Security Groups | Docker | Bash
 
 ### [Cloud Infrastructure Monitor](<https://github.com/Abishek-21/cloud-monitor>)
 A production-grade monitoring and auto-healing system that tracks CPU, memory, disk, and services in real-time. Automatically restarts crashed services and logs everything to MongoDB. Includes a live web dashboard.
@@ -50,20 +56,23 @@ Automated system monitoring tool using Python and Bash. Generates daily reports 
 
 | Category | Technologies |
 |----------|-------------|
-| Languages | Python, Bash, HTML/CSS |
-| Cloud | AWS EC2, Security Groups, SSH |
-| Containers | Docker, Dockerfile, Docker Compose, Docker Hub |
+| Cloud | AWS EC2, IAM, Security Groups |
+| IaC | Terraform |
 | CI/CD | GitHub Actions |
+| Containers | Docker, Dockerfile, Docker Compose, Docker Hub |
 | Database | MongoDB, pymongo |
+| Languages | Python, Bash, HCL, HTML/CSS |
 | Web | Flask, REST API, Jinja2 |
 | Linux | systemd, cron, process management |
+| Monitoring | Infrastructure monitoring, auto-healing |
 | Tools | Git, GitHub, VS Code |
 
 ---
 
 ## What I've Built So Far
 
-- 5 end-to-end projects deployed on AWS
+- 6 end-to-end projects deployed on AWS
+- Infrastructure as Code with Terraform
 - Automated CI/CD pipeline with GitHub Actions
 - Infrastructure monitoring system with auto-healing
 - Multi-container Docker applications
