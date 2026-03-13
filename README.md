@@ -48,35 +48,33 @@ Automated system monitoring tool using Python and Bash. Generates daily reports 
 
 ## Tech Stack
 
-**Languages:** Python, Bash, HTML/CSS
-
-**Cloud:** AWS EC2, Security Groups, SSH
-
-**Containers:** Docker, Dockerfile, Docker Compose, Docker Hub
-
-**CI/CD:** GitHub Actions
-
-**Database:** MongoDB, pymongo
-
-**Web:** Flask, REST API, Jinja2
-
-**Linux:** systemd, cron, process management, permissions
-
-**Tools:** Git, GitHub, nano, VS Code
+| Category | Technologies |
+|----------|-------------|
+| Languages | Python, Bash, HTML/CSS |
+| Cloud | AWS EC2, Security Groups, SSH |
+| Containers | Docker, Dockerfile, Docker Compose, Docker Hub |
+| CI/CD | GitHub Actions |
+| Database | MongoDB, pymongo |
+| Web | Flask, REST API, Jinja2 |
+| Linux | systemd, cron, process management |
+| Tools | Git, GitHub, VS Code |
 
 ---
 
-## GitHub Stats
+## What I've Built So Far
 
-![Abishek's GitHub Stats](<https://github-readme-stats.vercel.app/api?username=Abishek-21&show_icons=true&theme=tokyonight>)
-
-![Top Languages](<https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek-21&layout=compact&theme=tokyonight>)
+- 5 end-to-end projects deployed on AWS
+- Automated CI/CD pipeline with GitHub Actions
+- Infrastructure monitoring system with auto-healing
+- Multi-container Docker applications
+- REST APIs with Flask and MongoDB
+- Docker images published on Docker Hub
 
 ---
 
 ## Connect With Me
 
-- [LinkedIn](<https://www.linkedin.com/in/abishek-budhiraja21/>)
+[![LinkedIn](<https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>)](<https://www.linkedin.com/in/abishek-budhiraja21/>)
 
 ---
 
