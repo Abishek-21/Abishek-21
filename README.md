@@ -1,4 +1,4 @@
-# Hey, I'm Abishek Budhiraja
+# Hey, I'm Abishek
 
 ### Aspiring DevOps & Cloud Engineer
 
